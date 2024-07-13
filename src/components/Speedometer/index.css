@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 30px;
+  font-style: italic;
+}
+.img {
+  height: 170px;
+  width: 300px;
+}
+.speed {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: roboto;
+}
+.para {
+  color: #cbd5e1;
+  font-family: roboto;
+  font-size: 15px;
+}
+.button-1 {
+  color: #ffffff;
+  background-color: #0b69ff;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.button-2 {
+  color: #ffffff;
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+}
